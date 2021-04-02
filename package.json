@@ -1,0 +1,23 @@
+{
+  "name": "cmtbook",
+  "version": "1.0.0",
+  "description": "蔡孟婷的电子书",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caimengting/cmtbook.git"
+  },
+  "keywords": [],
+  "author": "caimengting",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caimengting/cmtbook/issues"
+  },
+  "homepage": "https://github.com/caimengting/cmtbook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
